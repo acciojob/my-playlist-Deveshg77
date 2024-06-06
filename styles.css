@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+* {
+	margin:0px;
+	padding:0px;
+	background-color:rgb(204, 204, 204);
+}
+
+h1 {
+	font-family:
+}
+h2 {
+	text-align:center;
+}
+video  {
+	background-color:rgb(255, 255, 255);
+}
+.player_one, .player_two {
+    background-color: rgb(255, 255, 255);
+    padding: 0px;
+    border-radius: 0px;
+    width: 300px;
+    margin: auto;
+}
